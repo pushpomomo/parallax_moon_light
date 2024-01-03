@@ -13,6 +13,6 @@ window.addEventListener('scroll', () => {
     moon.style.left = 1.1 * scrollY + 'px';
     mountain.style.top = (0.5 +0.10 * scrollY) + 'px'; 
     road.style.top = 0.5 * scrollY + 'px';
-    text.style.top = (120 + 1.5 * scrollY) + 'px';
+    text.style.top = (0 + 1.5 * scrollY) + 'px';
 });
 
